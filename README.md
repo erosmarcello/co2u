@@ -34,4 +34,4 @@ Personal Co2 emission
       -State 
       -Country
 
- * = to be used by aquirers of scaptured data
+* = to be used by aquirers of scaptured data
