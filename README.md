@@ -35,3 +35,6 @@ Personal Co2 emission
       -Country
 
 * = to be used by aquirers of scaptured data
+
+
+Conceptulized, designed, developed and architected by Eros Marcello and Kuren Patel 
