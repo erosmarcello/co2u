@@ -1,4 +1,4 @@
-**# Co2 U Intelligent Virtual Assistant**
+# Co2 U Intelligent Virtual Assistant**
 
 IVA that calculates users personal Co2 emission
 
