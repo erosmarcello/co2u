@@ -21,7 +21,7 @@ Personal Co2 emission
 - Personal health 
 - Population density relative to cO2 output 
 - Calculate approximate daily, weekly, monthly carbon output
-- As it scales, can calculate town / city output, then state, then country.
+- As it scales, can calculate town / city output, then state, then country
 
 **User Input Sequestered:**
 
